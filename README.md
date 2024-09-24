@@ -16,3 +16,5 @@ The goal is to explore and improve the model's performance through fine-tuning, 
 
 Google Drive Link : https://drive.google.com/drive/folders/1QrDKoVbqHDY8eZOJy_FLcbfhdjDGQP0F?usp=sharing
 
+DINO Repo Link : https://github.com/IDEA-Research/DINO
+
